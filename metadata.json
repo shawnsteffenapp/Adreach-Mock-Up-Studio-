@@ -1,0 +1,8 @@
+
+{
+  "name": "Adreach Mock Up Studio",
+  "description": "A high-fidelity AI-powered street advertisement mockup generator for sales representatives to create realistic client visual assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
